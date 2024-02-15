@@ -1,8 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Özgür Kılıç</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 🔭 I’m currently working on **React**
+  
+- 🌱 I’m currently learning **Fullstack Developer and Machine Learning**
 
 - 📫 How to reach me **ozgur.kilic0402@gmail.com**
 
