@@ -1,4 +1,4 @@
-
+<img src="DALL·E 2024-02-15 22.51.41 - Create a pixel art style image of an indoor scene. The scene is a vibrant and well-organized workspace that reflects a strong blue and red color theme.webp" width="auto">
 <h1 align="center">Hi 👋, I'm Özgür Kılıç</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
